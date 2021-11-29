@@ -1,0 +1,6 @@
+mylogs.logs  
+# (ye likhne se mylogs.logs naam ki file jahaan kahin bhi hogi chahe kisi sub folder mein bhi ho wo track nahi hongi)
+
+# /mylogs.logs (sirf current folder mein check karega)
+
+# *.logs (jo bhi files hongi jinka extension .logs hoga)
